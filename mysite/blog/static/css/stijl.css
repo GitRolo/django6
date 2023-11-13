@@ -10,7 +10,7 @@ h1{
     left: 80px;
 }
 
-.article{
+article{
     width: 500px;
     margin-top: 40px;
     margin-left: 0px;
@@ -31,5 +31,5 @@ footer{
 }
 
 a{
-    color: orange;
+    color: black;
 }
